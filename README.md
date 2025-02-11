@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Project Traffico
+
+[Macbook-Air-localhost-0zr6z5hkpecu59.webm](https://github.com/user-attachments/assets/5adfa9dd-e08d-4661-97ba-d06c45fb399c)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
